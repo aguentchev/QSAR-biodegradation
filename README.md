@@ -1,2 +1,3 @@
-# QSAR-biodegradation
-Work with QSAR Biodegradatino dataset
+# Biodegradability of Certain Molecular Structures   
+This project takes a look at the QSAR (Quantitative Structure Activity Relationships) Biodegradation Data Set, from the OpenML collection of datasets. The dataset features 41 attributes describing 1055 molecules, and whether or not they are ready biodegradable. The Milano Chemometrics and QSAR Research Group, part of the Department of Earth and Environmental Sciences for the University of Milano Bicocca in Italy sought to create a classifier that could predict ready biodegradability. The dataset mentioned above is the dataset they compiled from information on the website of the National Institute of Technology and Evaluation of Japan.  
+Learn more [here](https://michem.unimib.it/research/)
